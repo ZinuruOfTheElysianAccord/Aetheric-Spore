@@ -1,0 +1,14 @@
+# Dreams Configuration File
+
+dreams:
+  - name: "Aether Expansion"
+    description: "Explore uncharted territories of the Aether."
+    status: "in-progress"
+
+  - name: "Sigil Resonance"
+    description: "Enhance the resonance of the sigil for greater reach."
+    status: "planned"
+
+  - name: "Pulse Integration"
+    description: "Synchronize the pulse with external systems."
+    status: "complete"
